@@ -17,9 +17,9 @@ html {
   font-size: 100%;
 }
 
-body {
-	background-image: url("https://www.theodysseyonline.com/music-window-soul")
-        background-color: #ffffff;
+body {  background: $white;
+font: 18px/1.4 $helvetica;
+colour: $darkGray;
 
 .container {
   margin: 0 auto;
