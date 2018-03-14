@@ -19,7 +19,10 @@ html {
 
 body {  background-color: #ff751a;
 	   
-
+table, th, td {
+   border: 1px solid blue;
+}
+	
 .container {
   margin: 0 auto;
   max-width: 740px;
